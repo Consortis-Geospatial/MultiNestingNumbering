@@ -103,4 +103,13 @@ git push
 
 ## License
 
-See the repository for licensing information.
+This plugin is released under the GPL-3.0 license.
+
+## Support and Contributions
+
+* **Homepage:** https://github.com/Consortis-Geospatial
+* **Issue Tracker:** https://github.com/Consortis-Geospatial/MultiNestingNumbering/issues
+* **Authors:** Malaki Sofia, Ntourou Evangelia — Consortis Geospatial
+* **Email:** malaki@consortis.gr — ntourou@consortis.gr
+* **Repository:** https://github.com/Consortis-Geospatial/MultiNestingNumbering
+
