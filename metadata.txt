@@ -1,0 +1,16 @@
+[general]
+name=MultiNestingNumbering
+qgisMinimumVersion=3.0
+author=ConsortisGeospatial |Malaki, Ntourou
+description=QGIS plugin for numbering selected road branches using the od_numb field, with automatic next-number detection by prefix or manual numbering.
+about=A QGIS plugin for efficient numbering of road branches using the od_numb attribute field. Automatically assigns the next available number or allows manual numbering with customizable prefixes.
+Supports bulk editing and deletion of road numbers for selected line features.
+version=2.2
+email=malaki@consortis.gr, ntourou@consortis.gr
+category=Web
+homepage=https://github.com/Consortis-Geospatial
+tracker=https://github.com/Consortis-Geospatial/MultiNestingNumbering/issues
+repository=https://github.com/Consortis-Geospatial/MultiNestingNumbering
+experimental=False
+deprecated=False
+tags=QGIS, Road Network, Digitization, Road Numbering, Attribute Editing, GIS, Mapping, Vector Layer
