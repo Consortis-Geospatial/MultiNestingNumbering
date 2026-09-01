@@ -13,4 +13,4 @@ tracker=https://github.com/Consortis-Geospatial/MultiNestingNumbering/issues
 repository=https://github.com/Consortis-Geospatial/MultiNestingNumbering
 experimental=False
 deprecated=False
-tags=QGIS, Road Network, Digitization, Road Numbering, Attribute Editing, GIS, Mapping, Vector Layer
+tags=QGIS, Road Network, Digitization, Road Numbering, Attribute Editing, GIS, Mapping
